@@ -6,7 +6,7 @@
       sizeText.textContent = `Width: ${width} and Height: ${height}`;
     }
 
-    // Call updateSize function initially
+    
     updateSize();
 
     // Attach resize event listener to window
